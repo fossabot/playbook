@@ -1,4 +1,6 @@
 ## About This Project
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fplaybook.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fplaybook?ref=badge_shield)
+
 
 The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
 
@@ -45,3 +47,6 @@ To compile changes in the `styles.css.scss` Sass file into a new `styles.css` fi
 As a work of the United States Government, this project is in the public domain within the United States.
 
 Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fplaybook.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fplaybook?ref=badge_large)
